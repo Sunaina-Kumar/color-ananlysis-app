@@ -1,0 +1,7 @@
+go to backend , cmd, node server.js 
+go to frontend folder , cmd , npm start 
+
+
+in frontend have all app.css app.js etc file along w node modules 
+
+in backend have node modules installed and have server.js file 
